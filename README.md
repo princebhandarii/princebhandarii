@@ -28,23 +28,6 @@
 
 <br/>
 
-## 📌 About Me
-
-```yaml
-name: "Prince Bhandari"
-education: "MCA @ VIT Chennai (CGPA 8.81/10) — Pursuing, Sem 3"
-location: "Chennai, Tamil Nadu, India"
-focus: ["Full-Stack (MERN)", "DSA", "OOP", "SQL", "Applied ML"]
-currently_learning: "System Design & Cloud (AWS/Docker)"
-fun_fact: "6+ deployed apps spanning ML pipelines, real-time tools, and full-stack platforms"
-```
-
-- 🎓 MCA student at **VIT Chennai**, strong fundamentals in **DSA, OOP, DBMS, SQL**
-- 💻 Hands-on builder of **full-stack MERN apps** and **applied ML systems**
-- 🗣️ Comfortable in **client-facing, collaborative environments** — quick to pick up new tools
-- 🎯 Aiming to grow into secure IT solutions, cloud, networking & automation 
-
-<br/>
 
 ## 🛠️ Tech Stack
 

@@ -33,7 +33,6 @@
 
 ```yaml
 name: "Prince Bhandari"
-role: "Associate Engineer Candidate"
 education: "MCA @ VIT Chennai (CGPA 8.81/10) — Pursuing, Sem 3"
 location: "Chennai, Tamil Nadu, India"
 focus: ["Full-Stack (MERN)", "DSA", "OOP", "SQL", "Applied ML"]
@@ -44,7 +43,7 @@ fun_fact: "6+ deployed apps spanning ML pipelines, real-time tools, and full-sta
 - 🎓 MCA student at **VIT Chennai**, strong fundamentals in **DSA, OOP, DBMS, SQL**
 - 💻 Hands-on builder of **full-stack MERN apps** and **applied ML systems**
 - 🗣️ Comfortable in **client-facing, collaborative environments** — quick to pick up new tools
-- 🎯 Aiming to grow into secure IT solutions, cloud, networking & automation as an Associate Engineer
+- 🎯 Aiming to grow into secure IT solutions, cloud, networking & automation 
 
 <br/>
 

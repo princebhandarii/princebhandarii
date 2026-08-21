@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D ISOMETRIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,50:00C9A7,100:6C63FF&height=230&section=header&text=PRINCE%20BHANDARI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Associate%20Engineer%20Candidate%20%7C%20Full-Stack%20(MERN)%20%7C%20DSA%20%7C%20ML&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,50:00C9A7,100:6C63FF&height=230&section=header&text=PRINCE%20BHANDARI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=700&lines=MCA+Student+%40+VIT+Chennai+(CGPA+8.81);Java+%7C+C%2FC%2B%2B+%7C+DSA+%7C+OOP+%7C+SQL;Full-Stack+MERN+Developer;Building+ML-powered+%26+Full-Stack+apps+%F0%9F%9A%80" alt="Typing SVG" />

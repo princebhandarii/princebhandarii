@@ -1,22 +1,29 @@
 <div align="center">
 
-<!-- TOP WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Prince%20Bhandari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Engineer%20Candidate%20%7C%20Full-Stack%20(MERN)%20%7C%20DSA%20%7C%20ML&descAlignY=58&descSize=18" width="100%"/>
+<!-- 3D ISOMETRIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,50:00C9A7,100:6C63FF&height=230&section=header&text=PRINCE%20BHANDARI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Associate%20Engineer%20Candidate%20%7C%20Full-Stack%20(MERN)%20%7C%20DSA%20%7C%20ML&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=700&lines=MCA+Student+%40+VIT+Chennai+(CGPA+8.81);Java+%7C+C%2FC%2B%2B+%7C+DSA+%7C+OOP+%7C+SQL;Full-Stack+MERN+Developer;Building+ML-powered+%26+Full-Stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=700&lines=MCA+Student+%40+VIT+Chennai+(CGPA+8.81);Java+%7C+C%2FC%2B%2B+%7C+DSA+%7C+OOP+%7C+SQL;Full-Stack+MERN+Developer;Building+ML-powered+%26+Full-Stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- SOCIAL LINKS -->
+<!-- 3D SOCIAL BADGES -->
 <p>
-  <a href="https://linkedin.com/in/princebhandarii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/princebhandarii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://princebhandari.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:princebhandari22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/princebhandarii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/princebhandarii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://princebhandari.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:princebhandari22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=princebhandarii&style=for-the-badge&color=6C63FF" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=princebhandarii&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="profile views"/>
+
+<br/>
+
+<!-- ANIMATED CONTRIBUTION SNAKE — signature "3D" motion piece -->
+<img src="https://raw.githubusercontent.com/princebhandarii/princebhandarii/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+
+<sub>⚡ To activate the snake above, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo — it renders your contribution graph as an animated 3D-style snake.</sub>
 
 </div>
 
@@ -45,46 +52,27 @@ fun_fact: "6+ deployed apps spanning ML pipelines, real-time tools, and full-sta
 
 <div align="center">
 
+<!-- skillicons.dev renders isometric/glossy 3D-look icon tiles, unlike flat shields.io badges -->
+
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,c,js,ts,py,mysql&theme=dark" />
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
 
 **Backend & APIs**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman&theme=dark" />
 
 **Databases & Cloud**
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,vercel&theme=dark" />
 
 **Tools**
 <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,sklearn&theme=dark" />
 
 </div>
 
@@ -95,22 +83,25 @@ fun_fact: "6+ deployed apps spanning ML pipelines, real-time tools, and full-sta
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=princebhandarii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=princebhandarii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C9A7&icon_color=6C63FF&text_color=c9d1d9" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=princebhandarii&show_icons=true&theme=default&hide_border=true&title_color=6C63FF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=princebhandarii&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=princebhandarii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=princebhandarii&theme=dark&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=princebhandarii&theme=tokyonight&hide_border=true&background=00000000&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=princebhandarii&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princebhandarii&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princebhandarii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhandarii&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhandarii&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C9A7" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhandarii&layout=compact&theme=default&hide_border=true&title_color=6C63FF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhandarii&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhandarii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </picture>
+
+<!-- 3D-style trophy shelf -->
+<img src="https://github-profile-trophy.vercel.app/?username=princebhandarii&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
 
 </div>
 
@@ -137,9 +128,9 @@ fun_fact: "6+ deployed apps spanning ML pipelines, real-time tools, and full-sta
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=princebhandarii&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C9A7&line=00C9A7&point=ffffff" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=princebhandarii&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00C9A7&line=00C9A7&point=ffffff" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=princebhandarii&theme=minimal&hide_border=true&color=6C63FF&line=6C63FF" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princebhandarii&theme=minimal&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princebhandarii&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </picture>
 
 </div>
@@ -218,12 +209,12 @@ From ML systems to real-time tools to full-stack platforms — explore the full 
 
 ### 💬 Let's Connect
 
-<a href="https://linkedin.com/in/princebhandarii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:princebhandari22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://princebhandari.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/princebhandarii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+<a href="mailto:princebhandari22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
+<a href="https://princebhandari.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9A7,100:6C63FF&height=150&section=footer" width="100%"/>
 
 </div>

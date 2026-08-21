@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- Animated wave header — capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There!%20I'm%20Prince&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Building%20with%20Python%2C%20JS%20%26%20LLMs&descSize=18&descAlignY=58" width="100%"/>
+<!-- Unique animated header — venom-style capsule with twinkling text -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:22D3EE&height=230&section=header&text=Hi%20There!%20I'm%20Prince&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%7C%20Building%20with%20Python%2C%20JS%20%26%20LLMs&descSize=18&descAlignY=62" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Software+Developer;Building+with+Python+%26+JavaScript;Exploring+LLMs+%2B+GenAI;Always+shipping+something+new" alt="Typing SVG" />
 </a>
+
+<!-- Live profile view counter — a small unique personal touch -->
+<img src="https://komarev.com/ghpvc/?username=princebhandarii&label=Profile%20Views&color=6366F1&style=flat" alt="profile views" />
 
 </div>
 
@@ -70,11 +73,18 @@
 
 <br/>
 
-<!-- Contribution snake animation - requires the GitHub Action in snake.yml to run once (see setup notes below) -->
+<!-- Contribution snake — real GitHub green shades, switches with light/dark mode.
+     Only renders AFTER the snake.yml Action has run once — see setup notes. -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/princebhandarii/princebhandarii/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princebhandarii/princebhandarii/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/princebhandarii/princebhandarii/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/princebhandarii/princebhandarii/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:22D3EE,50:6366F1,100:8B5CF6&height=110&section=footer" width="100%"/>

@@ -36,8 +36,8 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR-USERNAME/meeting-summarizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=meeting-summarizer&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/princebhandarii/College_managements">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=princebhandarii&repo=College_managements&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -48,12 +48,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=princebhandarii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhandarii&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princebhandarii&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -63,16 +63,16 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin.com/in/bhandariprince"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://princebhandari.netlify.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 
 </div>
 
 <br/>
 
-<!-- Contribution snake animation - requires GitHub Actions setup (see notes below) -->
+<!-- Contribution snake animation - requires the GitHub Action in snake.yml to run once (see setup notes below) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/princebhandarii/princebhandarii/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br/>
